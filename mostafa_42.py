@@ -1,4 +1,4 @@
-print("mostafa ahmed kadry")
+print("mostafa ahmed kadry") #name
 print("23")
 print("electrical power")
 print("24")
