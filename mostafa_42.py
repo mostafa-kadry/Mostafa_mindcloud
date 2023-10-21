@@ -1,5 +1,5 @@
 print("mostafa ahmed kadry") #name
-print("23")
+print("23")#age
 print("electrical power")
 print("24")
 print("hardware")
